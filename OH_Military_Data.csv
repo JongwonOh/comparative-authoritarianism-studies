@@ -1,0 +1,251 @@
+region,country,regime,gwftype,duryear,milstart,milend,natblg,yeardiff,colonyof,status,millead,milparty,mpexist,mpdummy,mpestb,seat1,seat100_1,majority,majordummy,gedate1,oppos,seat2,seat100_2,gedate2,opposnum,timediff,seat3,seat4,seat100_3,gdp,gdp1,loggdp1,population,gpc,loggpc10,gdpgrow,gg100,milexp,opec,milexp1,mgr,mgr100,ethnic,ethnic100,remark
+Africa,Algeria,Algeria1,party-military,30,1962-07-05,1992-01-11,1962-07-05,0,France,1,"Houari Boum?di?ne
+Chadli Bendjedid","Front de Lib?ration Nationale
+(FLN)",YES,1,1954-11-01,100.00%,100,YES,1,1962-09-28,,0%,0,,0,,0.00%,0.00%,0,2001000000,20,13,11619828,172,22,-19.69%,-20,328000000,1,328,2.51%,3,0.336,34,one-party state until 1991
+Africa,Algeria,Algeria2,military,27,1992-01-11,2019-02-22,1962-07-05,30,France,1,"Liamine Z?roual
+Abdelaziz Bouteflika","Rassemblement National D?mocratique
+(RND)",YES,1,1997-02-21,41.05%,41,NO,0,1997-06-05,,0%,0,,0,,0.00%,0.00%,0,48178000000,482,27,29742979,1620,32,1.10%,1,1752000000,1,1752,3.64%,4,0.353,35,one-party state until 1991
+Latin America,Argentina,Argentina1,military,3,1943-06-04,1946-02-24,1816-07-09,127,Spain,1,"Pedro Pablo Ram?rez
+Edelmiro Juli?n Farrell",,NO,0,,0%,0,NO,0,,,0%,0,,0,,0.00%,0.00%,0,,,,,,,,,,0,,,,0.051,5,
+Latin America,Argentina,Argentina2,military,2,1955-09-16,1958-02-23,1816-07-09,139,Spain,1,"Eduardo Lonardi
+Pedro Aramburu
+Isaac Rojas",,NO,0,,0%,0,NO,0,,"Partido Justicialista
+(PJ)",89.17%,89,1954-04-25,2,,7.64%,96.82%,97,,,,,,,,,,0,,,,0.06,6,
+Latin America,Argentina,Argentina3,indirect military,8,1958-02-23,1966-06-28,1816-07-09,142,Spain,1,military veto power,,NO,0,,0%,0,NO,0,,"Uni?n C?vica Radical Intransigente
+(UCRI)",71.12%,71,1958-02-23,3,,27.81%,98.93%,99,,,,,,,,,,0,,,,0.064,6,PJ was banned by the military
+Latin America,Argentina,Argentina4,military,7,1966-06-28,1973-03-11,1816-07-09,150,Spain,1,"Juan Carlos Ongan?a
+Marcelo Levingston
+Alejandro Lanusse",,NO,0,,0%,0,NO,0,,"Uni?n C?vica Radical
+(UCR)",35.42%,35,1965-03-14,10,,27.08%,62.50%,63,28630000000,286,25,22494035,1273,31,-0.66%,-1,279225436,0,279,1.17%,1,0.073,7,
+Latin America,Argentina,Argentina5,military,8,1976-03-24,1983-10-30,1816-07-09,160,Spain,1,"Jorge Rafael Videla
+Roberto Eduardo Viola
+Carlos Lacoste
+Leopoldo Galtieri
+Alfredo ?scar Saint-Jean
+Reynaldo Bignone",,NO,0,,0%,0,NO,0,,FREJULI,59.67%,60,1973-03-11,5,,20.99%,80.66%,81,51169000000,512,27,26264681,1948,33,-2.02%,-2,2050000000,0,2050,3.78%,4,0.087,9,
+Asia,Bangladesh,Bangladesh,military,2,2007-01-11,2008-12-29,1971-03-26,36,Pakistan,1,Fakhruddin Ahmed,,NO,0,,0%,0,NO,0,,"Bangladesh Nationalist Party
+(BNP)",64.33%,64,2001-10-01,8,,20.67%,85.00%,85,79612000000,796,29,142660376,558,27,7.06%,7,953464224,0,953,1.11%,1,0.028,3,
+Africa,Benin,Benin1,military,2,1965-12-22,1967-12-17,1960-08-01,5,France,1,Christophe Soglo,,NO,0,,0%,0,NO,0,,"Parti D?mocratique Dahom?en
+(PDD)",100.00%,100,1964-01-19,1,,0.00%,100.00%,100,289908721,3,5,2632356,110,20,5.29%,5,3993924,0,4,2.11%,2,0.783,78,party dictatorship regime before 1965
+Africa,Benin,Benin2,military,2,1967-12-17,1969-12-10,1960-08-01,7,France,1,Sourou Apithy,,NO,0,,0%,0,NO,0,,,0%,0,,0,,0.00%,0.00%,0,306222000,3,5,2735307,112,20,1.08%,1,3910553,0,4,1.98%,2,0.784,78,
+Africa,Benin,Benin3,military,0,1969-12-13,1970-05-07,1960-08-01,9,France,1,Justin Ahomad?gb?,,NO,0,,0%,0,NO,0,,,0%,0,,0,,0.00%,0.00%,0,330748211,3,5,2850661,116,21,2.88%,3,4015987,0,4,1.90%,2,0.784,78,
+Latin America,Bolivia,Bolivia1,party-military,3,1943-12-20,1946-07-21,1825-08-06,118,Spain,1,Gualberto Villarroel,,NO,0,,0%,0,NO,0,1944-02-07,"Partido Liberal
+(PL)",22.73%,23,1942-03-01,13,2,20.00%,42.73%,43,,,,,,,,,,0,,,,0.625,63,
+Latin America,Bolivia,Bolivia2,military,1,1951-05-16,1952-04-09,1825-08-06,126,Spain,1,Hugo Ballivi?n,,NO,0,,0%,0,NO,0,,"Movimiento Nacionalista Revolucionario
+(MNR)",0%,0,1951-05-06,0,,0.00%,0.00%,0,,,,,,,,,,0,,,,0.621,62,Supreme Decree annulled the results of the elections
+Latin America,Bolivia,Bolivia3,military,2,1969-09-26,1971-08-21,1825-08-06,144,Spain,1,Alfredo Ovando Cand?a,,NO,0,,0%,0,NO,0,,"Frente de la Revoluci?n Boliviana
+(FRB)",80.39%,80,1966-07-03,3,,18.63%,99.02%,99,929629629,9,10,4389246,212,23,4.47%,4,12254609,0,12,1.32%,1,0.608,61,
+Latin America,Bolivia,Bolivia4,military-personal,8,1971-08-21,1979-07-01,1825-08-06,146,Spain,1,"Hugo Banzer
+Juan Pereda","Alianza Democr?tica de la Revoluci?n Nacional
+(ADRN)",YES,1,1978-01-01,0%,0,NO,0,1978-07-09,,0%,0,,0,,0.00%,0.00%,0,3785000000,38,16,5344939,708,29,2.05%,2,97672439,0,98,2.60%,3,0.606,61,ge1 annuled later by the Electoral Court due to allegations of fraud
+Latin America,Bolivia,Bolivia5,military,2,1980-07-17,1982-10-10,1825-08-06,155,Spain,1,Luis Garc?a Meza,,NO,0,,0%,0,NO,0,,Unidad Democr?tica y Popular,36.15%,36,1980-06-29,10,,26.15%,62.31%,62,4527000000,45,17,5579935,811,29,-1.73%,-2,159008135,0,159,3.17%,3,0.599,60,
+Latin America,Brazil,Brazil,military,21,1964-04-01,1985-01-15,1889-11-15,75,Portugal,1,"Castelo Branco 
+Costa e Silva 
+Em?lio M?dici 
+Ernesto Geisel 
+Jo?o Figueiredo",,NO,0,,0%,0,NO,0,1966-11-15,"Partido Social Democr?tico
+(PSD)",19.32%,19,1962-10-07,11,4,15.40%,34.72%,35,27063000000,271,24,85696505,316,25,4.15%,4,718216575,1,718,3.02%,3,0.57,57,"president Branco shuttered all existing parties, and enacted a new electoral law that limited the number of parties to two"
+Africa,Burkina Faso,Burkina Faso,military,2,1980-11-25,1982-11-07,1960-08-05,20,France,1,Saye Zerbo,,NO,0,,0%,0,NO,0,,"Rassemblement D?mocratique Africain
+(UDV-RDA)",49.12%,49,1978-04-30,5,,22.81%,71.93%,72,1929000000,19,13,6822843,283,25,0.80%,1,35360659,0,35,2.75%,3,0.754,75,
+Africa,Burundi,Burundi1,party-military,21,1966-07-08,1987-09-03,1962-07-01,4,Belgium,1,"Michel Micombero
+Jean-Baptiste Bagaza","Union Pour le Progr?s National
+(UPRONA)",YES,1,1960-01-01,100.00%,100,YES,1,1982-10-22,"Parti du Peuple
+(PP)",30.30%,30,1965-05-10,1,17,0.00%,30.30%,30,1013000000,10,10,4379724,231,24,-1.05%,-1,36665556,0,37,3.51%,4,0.281,28,"one-party state
+President Jean-Baptiste Bagaza appointed a further 13 members until 1987"
+Africa,Burundi,Burundi2,military,6,1987-09-03,1993-06-01,1962-07-01,25,Belgium,1,"Pierre Buyoya
+(Tutsi Military Committee)",,NO,0,,0%,0,NO,0,,"Union pour le Progr?s national
+(UPRONA)",100.00%,100,1982-10-22,1,,0.00%,100.00%,100,1131000000,11,11,5027138,225,24,5.50%,6,30784856,0,31,2.65%,3,0.285,29,"one-party state
+President Jean-Baptiste Bagaza appointed a further 13 members until 1987"
+Africa,Burundi,Burundi3,military-personal,7,1996-07-25,2003-04-30,1962-07-01,34,Belgium,1,Pierre Buyoya,,NO,0,,0%,0,NO,0,,"Front pour la D?mocratie au Burundi
+(FRODEBU)",80.25%,80,1993-06-29,2,,0.00%,80.25%,80,869033856,9,9,6060111,143,22,-8.00%,-8,50893981,0,51,5.86%,6,0.293,29,
+Africa,Central African Republic,Central African Republic,military-personal,12,1981-09-01,1993-09-19,1960-08-13,21,France,1,Andr?-Dieudonn? Kolingba,"Rassemblement D?mocratique Centrafricain
+(RDC)",YES,1,1987-02-06,100.00%,100,YES,1,1987-07-31,"Mouvement pour l'?volution sociale de l'Afrique noire
+(MESAN)",100.00%,100,1964-03-15,1,23,0.00%,100.00%,100,1021000000,10,10,2646840,386,26,-4.94%,-5,,0,,,,0.783,78,one-party state until 1992
+Africa,Chad,Chad,military,4,1975-04-13,1979-03-23,1960-08-11,15,France,1,No?l Milarew Odingar,,NO,0,,0%,0,NO,0,,"Parti Progressiste Tchadien
+(PPT)",100.00%,100,1969-12-14,1,,0.00%,100.00%,100,864602103,9,9,4088564,211,23,9.01%,9,,0,,,,0.835,84,one-party state by PPT from 1962 to 1975
+Latin America,Chile,Chile,military-personal,16,1973-09-11,1989-12-14,1818-02-12,155,Spain,1,Augusto Pinochet,"Uni?n Dem?crata Independiente
+(UDI)",YES,1,1983-12-24,0%,0,NO,0,,Confederaci?n de la Democracia (CODE),58.00%,58,1973-03-04,2,,42.00%,100.00%,100,16836000000,168,22,10265829,1640,32,-5.03%,-5,486720077,0,487,6.74%,7,0.495,50,
+Latin America,Colombia,Colombia,military-personal,5,1953-06-13,1958-05-10,1810-07-20,143,Spain,1,"Gustavo Rojas Pinilla
+Gabriel Par?s Gordillo",,NO,0,,0%,0,NO,0,,Partido Conservador Colombiano,100.00%,100,1953-03-15,1,,0.00%,100.00%,100,,,,,,,,,,0,,,,0.657,66,the Liberal and the Communist boycotted the 1953 election
+Africa,Congo-Brazzaville,Congo-Brazzaville,party-military,22,1968-09-04,1991-02-25,1960-08-15,8,France,1,"Marien Ngouabi
+Joachim Yhombi-Opango
+Jean-Pierre Thyst?re Tchicaya
+Denis Sassou Nguesso","Parti Congolais du Travail
+(PCT)",YES,1,1969-12-29,100.00%,100,YES,1,1973-06-24,"Mouvement national de la r?volution
+(MNR)",100.00%,100,1963-12-11,1,10,0.00%,100.00%,100,541973361,5,7,1448637,374,26,8.23%,8,19426710,1,19,4.24%,4,0.705,71,"one-party state
+MP was a Marxist?Leninist party"
+Latin America,Dominican Republic,Dominican Republic,military,2,1963-09-26,1965-04-24,1844-02-27,119,Haiti,1,military junta,,NO,0,,0%,0,NO,0,,"Partido Revolucionario Dominicano
+(PRD)",70.30%,70,1962-12-20,4,,23.76%,94.06%,94,940799900,9,10,3638109,259,24,6.50%,7,39000000,0,39,4.32%,4,0.408,41,
+Latin America,Ecuador,Ecuador1,military,3,1963-07-11,1966-03-29,1809-08-10,154,Spain,1,military junta,,NO,0,,0%,0,NO,0,,Civic Christian Action,23.20%,23,1962-06-03,9,,22.90%,46.10%,46,1824000000,18,13,4948986,369,26,2.11%,2,17100000,1,17,1.77%,2,0.667,67,
+Latin America,Ecuador,Ecuador2,military,7,1972-02-15,1979-04-29,1809-08-10,163,Spain,1,Guillermo Rodr?guez,,NO,0,,0%,0,NO,0,,Velasquista National Federation,32.80%,33,1968-06-02,5,,31.00%,63.80%,64,3186000000,32,15,6429379,496,27,5.02%,5,37300000,1,37,1.99%,2,0.665,67,
+Africa,Egypt,Egypt1,party-personal-military,59,1952-07-23,2011-02-11,1952-07-23,0,the United Kingdom,1,"Gamal Abdel Nasser
+Anwar Sadat
+Hosni Mubarak","Arab Socialist Union
+(ASU)
+-> National Democratic Party
+(NDP)",YES,1,1962-12-01,100.00%,100,YES,1,1964-03-10,Wafd Party,70.53%,71,1950-01-03,5,14,8.78%,79.31%,79,4949000000,49,17,29644875,167,22,11.51%,12,448496596,1,448,10.33%,10,0.003,0,one-party state
+Africa,Egypt,Egypt2,military-personal,7,2013-07-03,2020-11-09,1952-07-23,61,the United Kingdom,0,Abdel Fattah el-Sisi,,NO,0,,0%,0,NO,0,2015-12-02,Democratic Alliance for Egypt,46.26%,46,2011-11-28,16,4,24.21%,70.47%,70,3.33E+11,3327,35,92442547,3599,36,4.37%,4,5475000000,1,5475,1.72%,2,0.042,4,
+Latin America,El Salvador,El Salvador1,military-personal,17,1931-12-02,1948-12-14,1824-06-12,107,Spain,1,"Maximiliano Hern?ndez Mart?nez
+Andr?s Ignacio Men?ndez
+Osm?n Aguirre y Salinas
+Salvador Castaneda Castro","Partido Revolucionario de Unificaci?n Democr?tica
+(PRUD)",YES,1,1945-01-01,0%,0,NO,0,,,0%,0,1931-01-11,0,,0.00%,0.00%,0,,,,,,,,,,0,,,,0.214,21,
+Latin America,El Salvador,El Salvador2,party-military,33,1948-12-14,1982-03-28,1824-06-12,124,Spain,1,Revolutionary Governing Council,"Partido Revolucionario de Unificaci?n Democr?tica
+(PRUD)",YES,1,1945-01-01,73.08%,73,YES,1,1950-03-26,,0%,0,1944-01-01,0,6,0.00%,0.00%,0,,,,,,,,,,0,,,,0.209,21,later turned into de facto one-party state until 1982
+Latin America,El Salvador,El Salvador3,indirect military,12,1982-03-28,1994-03-20,1824-06-12,158,Spain,1,Vides Casanova,,NO,0,,0%,0,NO,0,1985-03-31,"Partido de Concertaci?n Nacional
+(PCN)",92.59%,93,1978-03-12,2,7,7.41%,100.00%,100,3399000000,34,15,4936807,689,28,0.62%,1,250433594,0,250,6.59%,7,0.183,18,"leftists' party prevented
+dominant military influences over society"
+Africa,Ethiopia,Ethiopia,military-personal,17,1974-09-12,1991-05-08,1931-07-16,43,No,1,Mengistu Haile Mariam,"The Workers' Party of Ethiopia
+(WPE)",YES,1,1984-12-12,95.21%,95,YES,1,1987-02-01,,0%,0,1973-06-23,0,14,0.00%,0.00%,0,10257000000,103,20,43329231,237,24,13.86%,14,429444444,0,429,6.82%,7,0.794,79,"no party allowed under imperial rule
+later turned into one-party state until 1991"
+Africa,Ghana,Ghana1,military,4,1966-02-24,1969-08-29,1957-03-06,9,the United Kingdom,1,National Liberation Council,,NO,0,,0%,0,NO,0,1969-08-29,"Convention People's Party
+(CPP)",100.00%,100,1965-06-09,1,4,0.00%,100.00%,100,1962000000,20,13,8520015,230,24,6.01%,6,49026818,0,49,2.50%,3,0.736,74,one-party state before the 1966 coup
+Africa,Ghana,Ghana2,military,7,1972-01-13,1979-07-09,1957-03-06,15,the United Kingdom,1,"Ignatius Kutu Acheampong
+(National Redemption Council
+-> Supreme Military Council)",,NO,0,,0%,0,NO,0,,"Progress Party
+(PP)",75.00%,75,1969-08-29,5,,20.71%,95.71%,96,2112000000,21,13,9229631,229,24,-2.49%,-2,30202526,0,30,1.43%,1,0.736,74,
+Europe,Greece,Greece,military,7,1967-04-21,1974-07-23,1821-03-25,146,the Ottoman Empire,1,"Georgios Papadopoulos
+(Ieros Desmos Ellinon Axiomatikon)",,NO,0,,0%,0,NO,0,,"Enosis Kentrou
+(EK)",57.00%,57,1964-02-19,3,,35.67%,92.67%,93,9276000000,93,20,8684088,1068,30,5.67%,6,313035616,0,313,4.35%,4,0.049,5,
+Latin America,Guatemala,Guatemala1,military,3,1963-03-30,1966-05-10,1823-07-01,140,Spain,1,Enrique Peralta Azurdia,"Partido Institucional
+Democr?tico
+(PID)",YES,1,1963-03-30,0%,0,NO,0,1964-05-24,PRDN-MDN-PUD,75.76%,76,1961-12-03,5,2,13.64%,89.39%,89,1299000000,13,11,4640795,280,24,4.63%,5,12993631,0,13,1.00%,1,0.595,60,sixty assembly members were appointed by the military government and joined PID
+Latin America,Guatemala,Guatemala2,indirect military,4,1966-05-10,1970-03-01,1823-07-01,143,Spain,1,military junta,"Partido Institucional
+Democr?tico
+(PID)",YES,1,1963-03-30,0%,0,NO,0,,"Partido Revolucionario
+(PR)",52.73%,53,1966-03-06,2,,9.09%,61.82%,62,1391000000,14,11,5047435,276,24,5.51%,6,19100637,0,19,1.37%,1,0.593,59,originally compromised to align with PR but broken
+Latin America,Guatemala,Guatemala3,military,16,1970-03-01,1985-12-08,1823-07-01,147,Spain,1,"Carlos Manuel Arana Osorio
+Kjell Eugenio Laugerud Garc?a
+Fernando Romeo Lucas Garc?a
+Efra?n R?os Montt
+?scar Humberto Mej?a V?ctores",PID + Movimiento de Liberaci?n Nacional(MLN) Coalition,YES,1,1963-03-30,56.36%,56,YES,1,1970-03-01,"Partido Revolucionario
+(PR)",52.73%,53,1966-03-06,2,4,9.09%,61.82%,62,1904000000,19,13,5455197,349,25,5.71%,6,32300000,0,32,1.70%,2,0.589,59,originally compromised to align with PR but broken
+Latin America,Guatemala,Guatemala4,indirect military,10,1985-12-08,1995-11-12,1823-07-01,162,Spain,1,military veto power,FRG-PID-FUN,YES,1,1963-03-30,10.34%,10,NO,0,1990-11-11,MLN-CAN,26.14%,26,1984-07-01,10,6,22.73%,48.86%,49,7650000000,77,19,9050115,845,29,3.10%,3,119310860,0,119,1.73%,2,0.56,56,"the military retained control of its own affairs and veto power
+over substantial areas of policy"
+Latin America,Haiti,Haiti1,military,3,1986-02-07,1988-09-17,1804-07-01,182,France,1,"Henri Namphy
+(National Governing Council)",,NO,0,,0%,0,NO,0,1988-01-17,"Parti de I'unite nationale
+(PUN)",100.00%,100,1984-02-12,1,4,0.00%,100.00%,100,2614000000,26,14,6758223,387,26,0.20%,0,1972400,0,2,0.09%,0,0.106,11,the 1987 election was cancelled forcefully by the Armed Forces
+Latin America,Haiti,Haiti2,military-personal,1,1988-09-17,1990-03-10,1804-07-01,184,France,1,Henri Namphy,,NO,0,,0%,0,NO,0,,"Rassemblement des D?mocrates Nationaux Progressistes
+(RDNP)",50.20%,50,1988-01-17,9,,19.70%,69.90%,70,2614000000,26,14,6758223,387,26,0.20%,0,1972400,0,2,0.09%,0,0.106,11,
+Latin America,Haiti,Haiti3,military,3,1991-09-30,1994-10-12,1804-07-01,187,France,1,Raoul C?dras,,NO,0,,0%,0,NO,0,1993-01-18,National Front for Change and Democracy,37.04%,37,1990-12-16,8,2,21.30%,58.33%,58,1878000000,19,13,7460689,252,24,-5.43%,-5,1649639,0,2,0.11%,0,0.106,11,the elections were declared illegitimate by the Permanent Council of the Organization of American States
+Latin America,Honduras,Honduras1,party-military,7,1963-10-03,1971-03-28,1838-11-05,125,Spain,1,Oswaldo L?pez Arellano,,NO,0,,0%,0,NO,0,1965-02-19,"Partido Liberal de Honduras
+(PLH)",62.07%,62,1957-09-22,3,7,31.03%,93.10%,93,508650000,5,7,2346015,217,23,3.58%,4,6250000,0,6,1.23%,1,0.159,16,"In January 1965, L?pez Arellano deposed the San Pedro Sula officials and replaced them with his allies in the National Party"
+Latin America,Honduras,Honduras2,military,9,1972-12-04,1981-11-29,1838-11-05,134,Spain,1,Oswaldo L?pez Arellano,,NO,0,,0%,0,NO,0,,"Partido Nacional de Honduras
+(PNH)",50.00%,50,1971-03-28,2,,50.00%,100.00%,100,802999950,8,9,2882113,279,24,5.76%,6,15449923,0,15,1.84%,2,0.168,17,
+Asia,Indonesia,Indonesia,party-personal-military,33,1966-03-11,1999-06-07,1945-08-17,21,Japan,1,Suharto,Golkar,YES,1,1964-10-20,65.56%,66,YES,1,1971-07-03,"Partai Nasional Indonesia
+(PNI)",22.18%,22,1955-12-15,28,16,22.18%,44.36%,44,9334000000,93,20,117880144,79,19,7.02%,7,,1,,,,0.738,74,
+Africa,Lesotho,Lesotho,military,7,1986-01-20,1993-03-27,1966-10-04,20,the United Kingdom,1,"Justin Metsing Lekhanya
+(Transitional Military Council)",,NO,0,,0%,0,NO,0,,,0%,0,,0,,0.00%,0.00%,0,318862888,3,5,1561692,204,23,4.69%,5,13369628,0,13,4.84%,5,0.283,28,1970 and 1985 general elections were cancelled or boycotted
+Africa,Madagascar,Madagascar,military,3,1972-05-18,1975-06-15,1960-06-26,12,France,1,Gabriel Ramanantsoa,"The Association for the Rebirth of Madagascar
+(AREMA)",YES,1,1976-11-30,100.00%,100,YES,1,1977-06-30,"Parti Social D?mocrate de Madagascar et des Comores
+(PSD)",97.20%,97,1970-09-06,2,7,2.80%,100.00%,100,2359000000,24,14,7998164,295,25,2.36%,2,43959891,0,44,2.31%,2,0.018,2,"one-party state
+ banned all political parties not affiliated with the AREMA
+approval voting implemented"
+Africa,Mauritania,Mauritania,military,2,2005-08-03,2007-03-25,1960-11-28,45,France,1,Ely Ould Mohamed Vall,,NO,0,,0%,0,NO,0,2006-11-19,"Parti R?publicain D?mocratique pour le Renouvellement
+(PRDR)",79.01%,79,2001-10-19,7,5,3.70%,82.72%,83,4009000000,40,16,3111906,1288,31,18.33%,18,81906180,0,82,2.69%,3,0.705,71,
+Asia,Myanmar,Myanmar1,military,1,1958-09-26,1960-02-06,1948-01-04,10,the United Kingdom,1,Ne Win,,NO,0,,0%,0,NO,0,1960-02-06,"Anti-Fascist People's Freedom League
+(AFPFL)",59.20%,59,1956-04-27,3,4,19.20%,78.40%,78,,,,21736942,,,0.47%,0,59512590,0,60,6.12%,6,0.433,43,"in a context of conflict between two factions within AFPFL, Ne Win and the army took a caretaker role"
+Asia,Myanmar,Myanmar2,military-personal,27,1962-03-02,1988-09-18,1948-01-04,14,the United Kingdom,1,Ne Win,"Burma Socialist Programme Party
+(BSPP)",YES,1,1962-07-04,100.00%,100,YES,1,1974-01-27,"Pyidaunsu Pati or Pataza
+(Union Party, or Clean AFPFL)",63.20%,63,1960-02-06,4,14,16.40%,79.60%,80,,,,29918461,,,5.34%,5,159999342,0,160,4.02%,4,0.475,48,one-party state until 1988
+Asia,Myanmar,Myanmar3,military,23,1988-09-18,2011-03-30,1948-01-04,40,the United Kingdom,1,"Saw Maung
+Than Shwe
+(State Law and Order Restoration Council)","National Unity Party
+(NUP)",YES,1,1988-09-24,2.03%,2,NO,0,1990-05-27,"Burma Socialist Programme Party
+(BSPP)",100.00%,100,1985-10-20,1,5,0.00%,100.00%,100,,,,41335199,,,2.82%,3,202083467,0,202,3.40%,3,0.523,52,"NLD led by Aung Sann Suuk Kyi won the first rank (58.7%), but the military junta refused to recognise the results."
+Africa,Niger,Niger,military-personal,17,1974-04-15,1991-07-29,1960-08-03,14,France,1,"Seyni Kountch?
+(Conseil Militaire Supreme)",,NO,0,,0%,0,NO,0,,"Parti Progressiste Nig?rien-Rassemblement D?mocratique Africain
+(PPN-RDA)",100.00%,100,1970-10-22,1,,0.00%,100.00%,100,1026000000,10,10,5040798,204,23,8.78%,9,7330400,0,7,0.87%,1,0.676,68,one-party state before the 1974 coup
+Africa,Nigeria,Nigeria1,military,13,1966-07-29,1979-08-11,1960-10-01,6,the United Kingdom,1,"Johnson Aguiyi-Ironsi
+Yakubu Gowon",,NO,0,,0%,0,NO,0,,"Northern People's Congress
+(NPC)",51.92%,52,1964-12-30,5,,26.92%,78.85%,79,6367000000,64,18,51217973,124,21,-4.25%,-4,55719978,1,56,1.10%,1,0.869,87,
+Africa,Nigeria,Nigeria2,military,10,1983-12-31,1993-08-26,1960-10-01,23,the United Kingdom,1,"Muhammadu Buhari
+Ibrahim Babangida",,NO,0,,0%,0,NO,0,,"National Party of Nigeria
+(NPN)",67.03%,67,1983-08-27,5,,12.27%,79.30%,79,97095000000,971,30,79414840,1223,31,-10.92%,-11,1627000000,1,1627,2.22%,2,0.86,86,
+Africa,Nigeria,Nigeria3,military-personal,6,1993-08-26,1999-02-27,1960-10-01,33,the United Kingdom,1,Sani Abacha,,NO,0,,0%,0,NO,0,1998-04-25,"Social Democratic Party
+(SDP)",53.51%,54,1992-07-04,2,6,45.61%,99.12%,99,54604000000,546,27,116319759,469,27,2.58%,3,1150000000,1,1150,0.55%,1,0.853,85,"all parties running in the election were affiliated with the military regime, with all opposition parties banned and
+the election results was annulled by the government"
+Asia,Pakistan,Pakistan1,military-personal,13,1958-10-27,1971-12-20,1947-08-14,11,the United Kingdom,1,Ayub Khan,,NO,0,,0%,0,NO,0,1970-12-07,,0%,0,,0,,0.00%,0.00%,0,10028000000,100,20,58142060,172,22,11.35%,11,635250635,0,635,6.16%,6,0.608,61,
+Asia,Pakistan,Pakistan2,military-personal,11,1977-07-05,1988-11-16,1947-08-14,30,the United Kingdom,1,Muhammad Zia-ul-Haq,,NO,0,,0%,0,NO,0,1985-02-28,"Pakistan Peoples Party
+(PPP)",71.76%,72,1977-03-07,3,8,17.13%,88.89%,89,31145000000,311,25,92191510,338,25,7.59%,8,2144000000,0,2144,6.92%,7,0.647,65,"non-party basis election
+opposition parties boycotted"
+Asia,Pakistan,Pakistan3,military-personal,9,1999-10-12,2008-08-18,1947-08-14,52,the United Kingdom,1,Pervez Musharraf,,NO,0,,0%,0,NO,0,2002-10-10,"Pakistani Muslim League
+(Nawaz)",66.18%,66,1997-02-03,9,6,8.70%,74.88%,75,79905000000,799,29,149549700,534,27,2.51%,3,3273000000,0,3273,4.07%,4,0.714,71,"fragmented party system
+monitored by the military"
+Latin America,Panama,Panama1,military-personal,13,1968-10-11,1982-03-03,1903-11-03,65,Spain,1,Omar Torrijos,"Partido Revolucionario Democr?tico
+(PRD)",YES,1,1979-03-11,19.30%,19,YES,0,1980-09-28,"Nation Union
+(UN)",80.95%,81,1968-05-12,3,12,16.67%,97.62%,98,4614000000,46,17,1978487,2332,34,,,,0,,,,0.536,54,first party-competitive election since 1969
+Latin America,Panama,Panama2,military-personal,8,1982-03-03,1989-12-20,1903-11-03,79,Spain,1,Manuel Noriega,"UNADE
+(large electoral coalition led by PRD)",YES,1,1979-03-11,67.16%,67,YES,1,1984-05-06,"Partido Dem?crata Cristiano de Panama
+(PDC)",8.77%,9,1980-09-28,2,4,3.51%,12.28%,12,6183000000,62,18,2170325,2849,35,,,,0,,,,0.545,55,
+Latin America,Paraguay,Paraguay,party-personal-military,39,1954-05-07,1993-05-09,1870-03-01,84,Spain,1,Alfredo Stroessner,,NO,0,,0%,0,NO,0,1954-07-11,Partido Colorado,100.00%,100,1953-02-15,1,1,0.00%,100.00%,100,,,,,,,,,,0,,,,0.099,10,"one-party state by non-military party, Partido Colorado"
+Latin America,Peru,Peru1,military-personal,8,1948-10-27,1956-06-17,1821-07-28,127,the United Kingdom,1,Manuel A. Odr?a,,NO,0,,0%,0,NO,0,,Frente Democr?tico Nacional,66.90%,67,1945-06-10,2,,33.00%,99.90%,100,,,,,,,,,,0,,,,0.641,64,
+Latin America,Peru,Peru2,military,1,1962-07-18,1963-06-09,1821-07-28,141,the United Kingdom,1,Ricardo P?rez Godoy,,NO,0,,0%,0,NO,0,1963-06-09,"Partido Aprista Peruano
+(APRA)",33.00%,33,1962-06-10,7,1,32.20%,65.20%,65,3601000000,36,16,11062300,326,25,4.33%,4,97315436,0,97,3.32%,3,0.636,64,the results were later annulled following a military coup on 18 July led by Ricardo P?rez Godoy
+Latin America,Peru,Peru3,military,12,1968-10-03,1980-05-18,1821-07-28,147,the United Kingdom,1,"Juan Velasco Alvarado
+Francisco Morales-Berm?dez",,NO,0,,0%,0,NO,0,1978-07-18,"Partido Aprista Peruano
+(APRA)",40.22%,40,1963-06-09,6,15,29.35%,69.57%,70,12496000000,125,21,16683456,749,29,-2.64%,-3,665178543,0,665,6.20%,6,0.631,63,"under 
+the Armed Forces Revolutionary Government"
+Africa,Rwanda,Rwanda1,military-personal,21,1973-07-05,1994-07-04,1962-07-01,11,Belgium,1,Juv?nal Habyarimana,"Mouvement R?publicain National pour la D?mocratie et le D?veloppement
+(MRND)",YES,1,1975-07-05,100.00%,100,YES,1,1981-12-28,,0%,0,1969-09-29,0,12,0.00%,0.00%,0,1407000000,14,11,5329252,264,24,5.44%,5,28682783,0,29,2.04%,2,0.206,21,one-party state
+Africa,Rwanda,Rwanda2,party-military,26,1994-07-04,2020-11-09,1962-07-01,32,Belgium,0,Paul Kagame,"Front Patriotique Rwandais
+(FPR)",YES,1,1979-05-01,62.26%,62,YES,1,2003-09-29,"Mouvement R?publicain National pour la D?mocratie et le D?veloppement
+(MRND)",100.00%,100,1988-12-26,1,15,0.00%,100.00%,100,1846000000,18,13,8557161,216,23,2.20%,2,45196269,0,45,2.45%,2,0.256,26,
+Africa,Sierra Leone,Sierra Leone1,military,1,1967-03-23,1968-04-18,1961-04-27,6,the United Kingdom,1,"Andrew Juxon-Smith
+(National Reformation Council)",,NO,0,,0%,0,NO,0,,"All People's Congress
+(APC)",41.03%,41,1967-03-17,2,,35.90%,76.92%,77,348795303,3,5,2596805,134,21,0.04%,0,2883154,0,3,0.80%,1,0.798,80,
+Africa,Sierra Leone,Sierra Leone2,military-personal,4,1992-04-29,1996-03-15,1961-04-27,31,the United Kingdom,1,"Valentine Strasser
+(National Provisional Ruling Council)",,NO,0,,0%,0,NO,0,,"All People's Congress
+(APC)",82.68%,83,1986-05-29,1,,0.00%,82.68%,83,679997998,7,8,4347724,156,22,-19.01%,-19,26661755,0,27,2.69%,3,0.8,80,one-party state from 1978 to 1991
+Asia,South Korea,South Korea,military-personal,26,1961-05-16,1987-06-29,1945-08-15,16,Japan,1,"Park Jeong-hee
+Chun Doo-hwan","Democratic Republican Party
+(DRP)
+-> Democratic Justice Party
+(DJP)",YES,1,1963-02-02,62.86%,63,YES,1,1963-11-26,"Democratic Party
+(DP)",75.11%,75,1960-07-29,6,3,1.72%,76.82%,77,3989000000,40,16,27261747,146,22,9.02%,9,185384615,0,185,4.82%,5,0,0,
+Asia,South Vietnam,South Vietnam,military,11,1963-11-02,1975-04-30,1945-09-02,18,France,1,"D??ng V?n Minh
+Nguy?n Kh?nh
+Nguy?n V?n Thi?u",,NO,0,,0%,0,NO,0,1966-09-11,National Revolutionary Movement,63.41%,63,1959-08-30,5,7,3.25%,66.67%,67,,,,,,,,,,0,,,,0.264,26,
+Africa,Sudan,Sudan1,military,6,1958-11-17,1964-10-29,1956-07-01,2,the United Kingdom & Egypt (Condominium),1,Ibrahim Abboud,,NO,0,,0%,0,NO,0,,National Umma Party,36.42%,36,1958-02-27,4,,26.01%,62.43%,62,,,,,,,,,,1,,,,0.744,74,
+Africa,Sudan,Sudan2,military,1,1985-04-06,1986-04-12,1956-07-01,29,the United Kingdom & Egypt (Condominium),1,Abdel Rahman Swar al-Dahab,,NO,0,,0%,0,NO,0,,"Sudanese Socialist Union
+(SSU)",100.00%,100,1981-11-13,1,,0.00%,100.00%,100,12404000000,124,21,17210187,721,29,-6.28%,-6,205293357,1,205,3.40%,3,0.747,75,one-party state from 1971 to 1985
+Asia,Syria,Syria1,indirect military,2,1949-12-19,1951-11-29,1945-10-24,4,France,1,"Husni al-Za'im
+Sami al-Hinnawi
+Adib Shishakli",,NO,0,,0%,0,NO,0,,Parti du peuple,55.26%,55,1949-11-16,5,,11.40%,66.67%,67,,,,,,,,,,1,,,,0.196,20,
+Asia,Syria,Syria2,military,2,1951-11-29,1954-02-25,1945-10-24,6,France,1,Adib Shishakli,Arab Liberation Movement,YES,1,1952-08-25,87.80%,88,YES,1,1953-10-09,Parti du peuple,55.26%,55,1949-11-16,5,4,11.40%,66.67%,67,,,,,,,,,,1,,,,0.197,20,the People's Party and the National Party were both closed down and prohibited from operating
+Asia,Syria,Syria3,indirect military,1,1962-03-28,1963-03-08,1945-10-24,17,France,1,"Abd al-Karim al-Nahlawi
+Haydar al-Kuzbari",,NO,0,,0%,0,NO,0,,Parti du peuple,19.19%,19,1961-12-01,10,,12.21%,31.40%,31,1111000000,11,10,4875422,228,24,24.52%,25,149593496,1,150,13.47%,13,0.2,20,
+Asia,Syria,Syria4,party-personal-military,58,1963-03-08,2020-11-09,1945-10-24,18,France,0,"Michel Aflaq
+Salah al-Din al-Bitar
+Salah Jadid
+Hafez al-Assad
+Bashar al-Assad",Arab Socialist Ba?ath Party,YES,1,1966-02-23,65.59%,66,YES,1,1973-05-25,Parti du peuple,19.19%,19,1961-12-01,10,11,12.21%,31.40%,31,3239000000,32,15,7037851,460,27,-8.55%,-9,388674557,1,389,15.07%,15,0.203,20,
+Asia,Thailand,Thailand1,military-personal,10,1947-11-08,1957-09-16,1932-06-24,15,No,1,Plaek Phibunsongkhram,Seri Manangkhasila Party,YES,1,1955-09-29,53.13%,53,YES,1,1957-02-26,,0%,0,1946-01-06,0,11,0.00%,0.00%,0,,,,,,,,,,0,,,,0.389,39,
+Asia,Thailand,Thailand2,military-personal,16,1957-09-16,1973-10-14,1932-06-24,25,No,1,"Sarit Thanarat
+Thanom Kittikachorn",United Thai People's Party,YES,1,1968-10-24,34.25%,34,NO,0,1969-02-10,Seri Manangkhasila Party,30.04%,30,1957-02-26,8,12,10.95%,40.99%,41,6695000000,67,18,35827092,187,23,6.55%,7,184903846,0,185,3.56%,4,0.382,38,
+Asia,Thailand,Thailand3,military-personal,12,1976-10-06,1988-07-24,1932-06-24,44,No,1,"Kriangsak Chamanan
+Prem Tinsulanonda",,NO,0,,0%,0,NO,0,1979-04-22,"Democratic Party
+(Prachathipat)",40.86%,41,1976-04-07,19,3,20.07%,60.93%,61,27372000000,274,24,46401754,590,28,5.37%,5,1199000000,0,1199,4.38%,4,0.376,38,
+Asia,Thailand,Thailand4,military,1,1991-02-23,1992-05-20,1932-06-24,59,No,1,"Suchinda Kraprayoon
+(National Peace Keeping Council)",,NO,0,,0%,0,NO,0,1992-03-22,"Thai Nation Party
+(Phak Chat Thai)",24.37%,24,1988-07-24,15,4,15.13%,39.50%,39,1.11E+11,1115,30,57811021,1928,33,8.08%,8,2962000000,0,2962,2.66%,3,0.367,37,
+Asia,Thailand,Thailand5,military,1,2006-09-19,2007-12-23,1932-06-24,74,No,1,Sonthi Boonyaratglin,,NO,0,,0%,0,NO,0,,"Thai Rak Thai Party
+(Phak Thai Rak Thai)",75.40%,75,2005-02-06,4,,19.20%,94.60%,95,2.22E+11,2218,33,65812536,3370,35,4.97%,5,2442000000,0,2442,1.18%,1,0.357,36,
+Asia,Thailand,Thailand6,party-personal-military,6,2014-05-22,2020-11-09,1932-06-24,82,No,0,Prayut Chan-o-cha,Palang Pracharath Party,YES,1,2018-03-02,23.20%,23,NO,0,2019-03-24,"Pheu Thai Party
+(Phak Phuea Thai)",53.00%,53,2011-07-03,11,8,31.80%,84.80%,85,5.44E+11,5437,37,69625582,7808,39,2.37%,2,7315000000,0,7315,1.34%,1,0.352,35,officially Prayut is not affiliated with the party
+Europe,Turkey,Turkey1,military,1,1960-05-27,1961-10-15,1932-06-24,28,No,1,"Alparslan T?rke?
+Cemal G?rsel
+(Committee of National Unity)",,NO,0,,0%,0,NO,0,,"Demokrat Parti
+(DP)",69.51%,70,1957-10-20,4,,29.18%,98.69%,99,13995000000,140,21,27472345,509,27,,,468810916,0,469,3.53%,4,0.13,13,
+Europe,Turkey,Turkey2,military,3,1980-09-12,1983-11-06,1932-06-24,48,No,1,"Kenan Evren
+(National Security Council)",,NO,0,,0%,0,NO,0,,"Cumhuriyet Halk Partisi
+(CHP)",47.33%,47,1977-06-05,7,,42.00%,89.33%,89,68789000000,688,28,43975971,1564,32,-2.25%,-2,2672000000,0,2672,3.90%,4,0.242,24,
+Latin America,Uruguay,Uruguay,military,11,1973-06-27,1984-11-25,1825-08-25,148,Brazil,1,National Security Council,,NO,0,,0%,0,NO,0,,Colorado Party,41.00%,41,1971-11-28,3,,40.00%,81.00%,81,3964000000,40,16,2822117,1405,31,0.28%,0,112465598,0,112,3.76%,4,0.197,20,the civilian president and the military compromised secretly
+Latin America,Venezuela,Venezuela,military-personal,9,1948-11-24,1958-01-23,1811-07-05,137,Spain,1,"Carlos Delgado Chalbaud
+Marcos P?rez Jim?nez
+Luis Felipe Llovera P?ez",,NO,0,,0%,0,NO,0,,"Acci?n Democr?tica
+(AD)",77.56%,78,1947-12-14,6,,12.82%,90.38%,90,,,,,,,,,,1,,,,0.444,44,
+Asia,Yemen,Yemen1,military,5,1962-09-26,1967-11-05,1918-10-30,44,the Ottoman Empire,1,Abdullah as-Sallal,,NO,0,,0%,0,NO,0,1964-10-16,,0%,0,1959-01-04,0,6,0.00%,0.00%,0,,,,5641597,,,,,,0,,,,0.175,18,"no party in 1950s
+all the major political parties boycotted the 1964 election"
+Asia,Yemen,Yemen2,military,4,1974-06-13,1978-07-17,1918-10-30,56,the Ottoman Empire,1,"Ibrahim al-Hamdi
+Ahmad al-Ghashmi",,NO,0,,0%,0,NO,0,,,0%,0,1971-02-01,0,,0.00%,0.00%,0,,,,6629999,,,,,,0,,,,0.164,16,political parties were banned
